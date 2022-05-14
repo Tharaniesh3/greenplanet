@@ -1,7 +1,6 @@
 # GREENPLANET
 ### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a website to raise general awareness on environmental problems.
-Have a look on it. https://tharaniesh3.github.io/spotify-website/
-
+Have a look on it. https://tharaniesh3.github.io/greenplanet/
 ## THIS IS HOW IT LOOKS LIKE
  ![alt text](https://raw.githubusercontent.com/Tharaniesh3/greenplanet/main/assets/11.png)
  ![alt text](https://raw.githubusercontent.com/Tharaniesh3/greenplanet/main/assets/12.png)
