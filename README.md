@@ -1,14 +1,13 @@
-# greenplanet
-# Spotify-website
+# GREENPLANET
 ### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a website to raise general awareness on environmental problems.
 Have a look on it. https://tharaniesh3.github.io/spotify-website/
 
 ## THIS IS HOW IT LOOKS LIKE
- ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/1.png)
- ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/2.png)
- ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/3.png)
- ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/4.png)
- ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/5.png)
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/greenplanet/main/assets/11.png)
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/greenplanet/main/assets/12.png)
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/greenplanet/main/assets/13.png)
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/greenplanet/main/assets/14.png)
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/greenplanet/main/assets/15.png)
   
 ## <u>Social Profiles</u> :
 [Instagram](https://www.instagram.com/__thaxx__/)
